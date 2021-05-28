@@ -820,7 +820,7 @@ module = {
   enable = powerpc_ieee1275;
   enable = efi;
   enable = i386_pc;
-  enable = i386_coreboot
+  enable = i386_coreboot;
   enable = emu;
 };
 
